@@ -11,27 +11,21 @@ the details of this project.
 
 # MENU DRIVEN OPTIONS:
 
- Available Car​
- 
- Show Rent and Car with price
- 
- ​Rent a Car ( Particular Car Name)
- 
- Return Car
- 
- Generate Receipt 
- 
- ​Exit
+ Available Car,​
+ Show Rent and Car with price,
+ Rent a Car ( Particular Car Name),
+ Return Car,
+ Generate Receipt,
+ Exit
 
  #CONCLUSION
- 
-The given project car rental system implemented in 
-Python. 
-It allows users to view available cars, car rental prices, 
-rent a car, return a car, generate receipts, and exit the 
-system. 
-It keeps track of available and rented cars, as well as 
-rental details. 
-This system provides a basic framework for managing car 
-rentals and serving customers efficiently
+ The given project car rental system implemented in 
+ Python. 
+ It allows users to view available cars, car rental prices, 
+ rent a car, return a car, generate receipts, and exit the 
+ system. 
+ It keeps track of available and rented cars, as well as 
+ rental details. 
+ This system provides a basic framework for managing car 
+ rentals and serving customers efficiently
 

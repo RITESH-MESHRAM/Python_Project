@@ -1,4 +1,5 @@
 # Python_Project
+
 # MENU DRIVEN:
  Introduction
  Available Car​
@@ -7,11 +8,13 @@
  Return Car
  Receipt 
  ​Exit
-#INTRODUCTION
+ 
+# INTRODUCTION
 Briefly explain the purpose of the car rental system highlight the
 benefits and convenience it offers to customers mention the key
 features and functionalities of the system
-#CONCLUSION
+
+# CONCLUSION
  Summarize the key points of the presentation
  Emphasize the and efficiency of the car rental 
 convenience system.

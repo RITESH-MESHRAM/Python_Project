@@ -11,15 +11,15 @@ the details of this project.
 
 # MENU DRIVEN OPTIONS:
 
- 1. Available Car ,​
+ 1. Available Car 
  
- 2. Show Rent and Car with price ,
+ 2. Show Rent and Car with price 
  
- 3. Rent a Car ( Particular Car Name) ,
+ 3. Rent a Car ( Particular Car Name) 
  
- 4. Return Car ,
+ 4. Return Car 
  
- 5. Generate Receipt ,
+ 5. Generate Receipt 
  
  6. Exit
 

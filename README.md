@@ -2,11 +2,17 @@
 
 # MENU DRIVEN:
  Introduction
+ 
  Available Car​
+ 
  Show Rent and Car
+ 
  ​Rent a Car
+ 
  Return Car
+ 
  Receipt 
+ 
  ​Exit
  
 # INTRODUCTION

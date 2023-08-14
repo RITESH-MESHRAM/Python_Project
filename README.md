@@ -1,28 +1,37 @@
-# Python_Project
+# Python_project
 
-# MENU DRIVEN:
- Introduction ,
+# INTRODUCTION 
+
+I would like to present to you a car rental system that
+simplifies the process of renting and returning cars. This
+system provides a user-friendly interface for customers to rent
+cars, view available cars and their prices, generate receipts,
+and return cars when they are done using them. Let's dive into
+the details of this project.
+
+# MENU DRIVEN OPTIONS:
+
+ Available Car​
  
- Available Car​,
+ Show Rent and Car with price
  
- Show Rent and Car,
+ ​Rent a Car ( Particular Car Name)
  
- ​Rent a Car,
+ Return Car
  
- Return Car,
- 
- Receipt,
+ Generate Receipt 
  
  ​Exit
+
+ #CONCLUSION
  
-# INTRODUCTION
+The given project car rental system implemented in 
+Python. 
+It allows users to view available cars, car rental prices, 
+rent a car, return a car, generate receipts, and exit the 
+system. 
+It keeps track of available and rented cars, as well as 
+rental details. 
+This system provides a basic framework for managing car 
+rentals and serving customers efficiently
 
-Briefly explain the purpose of the car rental system highlight the
-benefits and convenience it offers to customers mention the key
-features and functionalities of the system
-
-# CONCLUSION
-
- Summarize the key points of the presentation
- Emphasize the and efficiency of the car rental 
-convenience system.

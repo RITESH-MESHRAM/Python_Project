@@ -1,17 +1,17 @@
 # Python_Project
 
 # MENU DRIVEN:
- Introduction
+ Introduction ,
  
- Available Car​
+ Available Car​,
  
- Show Rent and Car
+ Show Rent and Car,
  
- ​Rent a Car
+ ​Rent a Car,
  
- Return Car
+ Return Car,
  
- Receipt 
+ Receipt,
  
  ​Exit
  

@@ -11,19 +11,19 @@ the details of this project.
 
 # MENU DRIVEN OPTIONS:
 
- Available Car,​
+ Available Car ,​
  
- Show Rent and Car with price,
+ Show Rent and Car with price ,
  
- Rent a Car ( Particular Car Name),
+ Rent a Car ( Particular Car Name) ,
  
- Return Car,
+ Return Car ,
  
- Generate Receipt,
+ Generate Receipt ,
  
  Exit
 
- #CONCLUSION
+ # CONCLUSION
  
  The given project car rental system implemented in 
  Python. 
